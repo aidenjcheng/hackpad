@@ -4,7 +4,7 @@
 
 - 4 Switches all with macros (vscode shortcuts mainly)
 - 2 LEDs
-- Volume knob that controls volume (i think)
+- Volume knob that controls volume
 
 ## CAD
 
@@ -20,7 +20,7 @@
 
 volume knob and macros for vscode (open terminal, and command palette)
 
-## [Bill of materials]()
+## [Bill of materials](https://raw.githubusercontent.com/aidenjcheng/hackpad/refs/heads/main/HackPad%20BOM.csv)
 
 - 1x 3d Printed Case
 - 1x Seeed XIAO RP2040
